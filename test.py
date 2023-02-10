@@ -11,3 +11,5 @@ test = f'a={a_f}, b={b}'
 test_f = f'a={a:2.4f}, b={b:2.4f}'
 print(test)
 print(test_f)
+
+print('Hello world')
