@@ -13,3 +13,5 @@ print(test)
 print(test_f)
 
 print('Hello world')
+
+print('Получается')
